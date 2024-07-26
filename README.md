@@ -1,10 +1,3 @@
-# python
-# pandas
-# opencv
-# Residential-Analysis
-
-
-
 ## 2024 국토·교통 데이터활용 경진대회
 국토교통부 주최
 Ministry of Land, Infrastructure and Transport Data Utilization Contest
