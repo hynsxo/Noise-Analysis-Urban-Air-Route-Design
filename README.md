@@ -34,8 +34,8 @@ Ministry of Land, Infrastructure and Transport Data Utilization Contest
   ![7](images/7.png)
 
 
-상위_15개_승차하차_역별_승객수
-![appendix2](images/appendix2.png)
+- 상위_15개_승차하차_역별_승객수
+  ![appendix2](images/appendix2.png)
 
 
 
@@ -67,22 +67,22 @@ Ministry of Land, Infrastructure and Transport Data Utilization Contest
 <br><br><br><br>
 1) 분석 대상 항공기 기준거리 평균 소음 산출
 EASA data에서 A320, B737 항공기의 Approach 단계 소음평균 계산 python code
-[avg_noise](codes/avg_noise.py)
+  [avg_noise](codes/avg_noise.py)
 
-![avg_noise](images/avg_noise.png)
+  ![avg_noise](images/avg_noise.png)
 기준고도 120m에서의 두 항공기의 평균 소음
 - A320: 93.948 Epn dB (측정횟수: 2,708회)
 - B737: 96.235 Epn dB (측정횟수: 1,589회)
 <br><br><br><br>
 2) 위 데이터의 유효성 확인(왜, A320F, B737들로만 엔진소음 분석을 시행하는가?)
-[checking](codes/checking.py)
+  [checking](codes/checking.py)
 
-![checking](images/checking.png)
+  ![checking](images/checking.png)
 
-![checkingn](images/checkingn.png)
+  ![checkingn](images/checkingn.png)
 <br><br><br><br>
 3) 실시간 소음데이터 추출
-[livenoise](codes/livenoise.py)
+  [livenoise](codes/livenoise.py)
 - 30분동안 약 480여개의 데이터 투출
 - 목표데이터 최소 8천개 이상
 - 토요일, 일요일 양일간 1300i~1900i 6시간동안 데이터 추출할것
@@ -92,21 +92,21 @@ EASA data에서 A320, B737 항공기의 Approach 단계 소음평균 계산 pyth
 
 
 ## 분석과정
-![10](images/10.png)
+  ![10](images/10.png)
 
 
 
 
 ## 분석
-![11](images/11.png)
+  ![11](images/11.png)
 
-![12](images/12.png)
+  ![12](images/12.png)
 
 
 
 
 ## 사용 데이터 목록
-![appendix1](images/appendix1.png)
+  ![appendix1](images/appendix1.png)
 - 국토교통부 데이터 통합채널
 https://data.molit.go.kr
 
