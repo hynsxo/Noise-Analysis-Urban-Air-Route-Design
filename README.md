@@ -1,6 +1,7 @@
 ## 2024 국토·교통 데이터활용 경진대회
 국토교통부 주최
 Ministry of Land, Infrastructure and Transport Data Utilization Contest
+https://www.bigdata-transportation.kr/pageant/dashboard/CMPE_000000000020020
 
 
 ## UAM 항로설계 소음분석 모델
