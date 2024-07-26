@@ -70,7 +70,7 @@ https://www.bigdata-transportation.kr/pageant/dashboard/CMPE_000000000020020
 EASA data에서 A320, B737 항공기의 Approach 단계 소음평균 계산 python code
   [avg_noise](codes/avg_noise.py)
 
-  ![avg_noise](images/avg_noise.png)
+    - ![avg_noise](images/avg_noise.png) <br><br>
 기준고도 120m에서의 두 항공기의 평균 소음
 - A320: 93.948 Epn dB (측정횟수: 2,708회)
 - B737: 96.235 Epn dB (측정횟수: 1,589회)
